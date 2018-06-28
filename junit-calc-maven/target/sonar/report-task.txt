@@ -1,0 +1,6 @@
+projectKey=com.wipro.bdp:junit-calc-maven
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/com.wipro.bdp:junit-calc-maven
+ceTaskId=AWQ6wehKLSG7TZhCvwb9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWQ6wehKLSG7TZhCvwb9
