@@ -37,7 +37,7 @@ public class CalculatorTest {
 	@Test
 	public void testDivision() {
 		try {
-			int result = calculator.division(1400, 700);
+			int result = calculator.division(6, 3);
 			Assert.assertEquals(2, result);
 		} catch(Exception e) {
 			//e.printStackTrace(System.err);
